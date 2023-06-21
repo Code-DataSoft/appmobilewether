@@ -1,2 +1,2 @@
 # appmobilewether
-is a note for company 
+is a note for company seconde
